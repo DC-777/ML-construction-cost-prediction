@@ -1,0 +1,2 @@
+# Machine-Learning---construction-cost-prediction
+In this work, we compared the predictive capabilities of six different machine learning algorithms - linear regression, random forest, extreme gradient boosting, light gradient boosting, and natural gradient boosting - and demonstrated that a hybrid light gradient boosting and natural gradient boosting model provides the most desirable construction cost estimates in terms of the accuracy metrics, uncertainty estimates, and training speed.
